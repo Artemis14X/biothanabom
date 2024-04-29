@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
 
 body {
-    background: url('../images/bg.jpg') ;
+    background: url('../images/BG.png');
     background-size: cover;
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
@@ -52,8 +52,8 @@ i.fa {
 
 .link {
     display: block;
-    background-color: rgba(66, 110, 255, 0.6);
-    color: #fff;
+    background-color: rgba(255,255,255, 0.9);
+    color: orange;
     text-align: center;
     margin-bottom: 20px;
     padding: 17px;
@@ -77,4 +77,8 @@ i.fa {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 600;
     font-size: 0.7rem;
+}
+a {
+    color: white;
+    font-size: 15px;
 }
